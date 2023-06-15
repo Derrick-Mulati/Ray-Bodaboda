@@ -1,5 +1,5 @@
 # Ray-Boda-Boda-Survey
-
+![piki.jpg](https://github.com/Lawez/Ray-Boda-Boda-Survey/blob/main/piki.jpg)
 Ray-Boda-Boda is a brand that focuses on producing reliable, cost-effective, and fuel-efficient motorcycles tailored explicitly for the boda-boda industry. These motorcycles aim to meet the transportation needs of both riders and passengers, contributing to the growth and development of the boda-boda sector in Kenya and beyond.
 ## Business Problem
 The business problem is to conduct a competitive analysis between electric motorbikes and fuel bikes, specifically in the context of Ray Boda Boda. The competitive analysis involves evaluating the strengths and weaknesses of different competitors in the market to gain insights and make informed business decisions.
@@ -35,7 +35,7 @@ Based on the provided data, here is a conclusion and some recommendations:
 
 * The most common motorcycle brand and models reported are Boxer and TVS.
 
-* Engine sizes of 125cc and 150cc are the most prevalent among the motorcycles.
+* Engine sizes of 125cc and 150cc are the most prevalent among motorcycles.
 
 * The majority of respondents own their bikes rather than leasing them.
 
