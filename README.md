@@ -1,5 +1,25 @@
 # Ray-Boda-Boda-Survey
 
+Ray-Boda-Boda is a brand that focuses on producing reliable, cost-effective, and fuel-efficient motorcycles tailored explicitly for the boda-boda industry. These motorcycles aim to meet the transportation needs of both riders and passengers, contributing to the growth and development of the boda-boda sector in Kenya and beyond.
+## Business Problem
+The business problem is to conduct a competitive analysis between electric motorbikes and fuel bikes, specifically in the context of Ray Boda Boda. The competitive analysis involves evaluating the strengths and weaknesses of different competitors in the market to gain insights and make informed business decisions.
+## Defining the Questions
+* 	What was the cost of the motorcycle?
+* 	How much deposit did you give?
+* Which financial institution facilitated the loan	What is your installment amount?
+* What is your installment cycle?
+* How much do you make daily?
+* 	How many liters of fuel do you typically consume per day?
+* Averagely how many customers do you serve in a day?
+* How much do you spend on fuel on a daily basis?	How regular is the repair/maintenance cycle for your bike?
+* 	On average, how much do you spend on the maintenance of your bike?	Are you registered to Taxi online service (Bolt, Uber, e.t.c.) ?
+* 	How do most customers pay you?
+* 	Do you have insurance?	If you answered yes above, how much do you spend on insurance?
+* 	Where do you park your bike at night?
+## Data
+The data set was from the Ray Boda Boda survey that was carried out
+
+## EDA analysis and Visualization
 ![control.png](https://github.com/Lawez/Ray-Boda-Boda-Survey/blob/main/control.png)
 
 
@@ -13,7 +33,7 @@ Based on the provided data, here is a conclusion and some recommendations:
 
 * The majority of respondents fall within the age range of 22 to 34, with the highest number of respondents being 23 and 34 years old.
 
-* The most common motorcycle brand and model reported are Boxer and TVS.
+* The most common motorcycle brand and models reported are Boxer and TVS.
 
 * Engine sizes of 125cc and 150cc are the most prevalent among the motorcycles.
 
@@ -26,7 +46,7 @@ Based on the provided data, here is a conclusion and some recommendations:
 * The majority of respondents did not use any financial institution for their motorcycle loans, with a significant portion relying on friends or family for financing.
 
 
-* Daily instalments were the most common payment cycle, followed by weekly and monthly.
+* Daily installments were the most common payment cycle, followed by weekly and monthly.
 
 * The daily income of respondents varies, with the most common range being 1,000 to 2,000.
 
