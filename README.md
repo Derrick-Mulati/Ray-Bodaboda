@@ -1,6 +1,6 @@
 # Ray-Boda-Boda-Survey
 
-![control.png](https://github.com/Lawez/Ray-Boda-Boda-Survey/blob/maincontrol.png)
+![control.png](https://github.com/Lawez/Ray-Boda-Boda-Survey/tree/maincontrol.png)
 
 
 
