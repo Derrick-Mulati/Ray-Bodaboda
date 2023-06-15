@@ -58,7 +58,7 @@ Based on the provided data, here is a conclusion and some recommendations:
 * The average daily spending on fuel is around 500 Kenyan Shillings.
 
 * A small percentage of respondents are registered to taxi online services like Bolt or Uber.
-  * M-Pesa and cash are the most common payment methods used by customers.
+* M-Pesa and cash are the most common payment methods used by customers.
 
 * The majority of respondents do not have insurance, while those who do spend around 3,000 to 3,500 on insurance.
 
