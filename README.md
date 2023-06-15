@@ -83,6 +83,8 @@ Offering regular maintenance packages and promoting the importance of routine ma
 
 These recommendations are based on the provided data, and it is important to conduct further market research and analysis to tailor strategies and initiatives according to the specific needs and preferences of the target audience.
 
+From the electric motorcycle analysis, I drew the following about the models;
+
 | Brand     | Models               | Selling Price (in KES)   | Range per Charge (in km) | Maximum Speed (in km/h) | Charging Stations | Locations                     | Swapping Price (in KES) | Rental Battery     | Bikes Sold |
 |-----------|----------------------|-------------------------|--------------------------|-------------------------|-------------------|-------------------------------|------------------------|--------------------|------------|
 | AMPERSAND | Turaco Zoom          | 184,980                 | 70 - 80                  | 80                      | 9                 | Ngara, Hurlingam, Dagoriti,   | 185 (per percentage)   | Battery owned      | 130        |
