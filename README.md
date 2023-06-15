@@ -83,6 +83,20 @@ Offering regular maintenance packages and promoting the importance of routine ma
 
 These recommendations are based on the provided data, and it is important to conduct further market research and analysis to tailor strategies and initiatives according to the specific needs and preferences of the target audience.
 
+| Brand     | Models               | Selling Price (in KES)   | Range per Charge (in km) | Maximum Speed (in km/h) | Charging Stations | Locations                     | Swapping Price (in KES) | Rental Battery     | Bikes Sold |
+|-----------|----------------------|-------------------------|--------------------------|-------------------------|-------------------|-------------------------------|------------------------|--------------------|------------|
+| AMPERSAND | Turaco Zoom          | 184,980                 | 70 - 80                  | 80                      | 9                 | Ngara, Hurlingam, Dagoriti,   | 185 (per percentage)   | Battery owned      | 130        |
+|           |                      |                         |                          |                         |                   | Mountain View, Total Thika Rd, |                        | fully by company   |            |
+| ARC       | Corbett              | 180,000                 | 50                       | 70                      | Around 40         | Kitengela, Ongata Rongai,     | 170 (single charge)    | Battery owned      | 40         |
+|           |                      |                         |                          |                         |                   | South B                       | 350 (unlimited per day) | by the company     |            |
+| RIDE      | Umeme 3000            | 186,000                 | 80                       | 120                     | 4                 | Kibera, Mlolongo, Athi River, | 200 (per swap)         | Battery owned      | Less than 50 |
+|           |                      |                         |                          |                         |                   | Kitengela                     | 120 (per charge)       | by the company     |            |
+| ECOBODAA  | Jasiri               | 215,000                 | 80                       | 80                      | 3                 | Total Lusaka Road, Total      | 1.2 (per percentage)   | Battery owned      | They're in   |
+|           | Beba                 | 236,000                 | 100                      | 80                      |                   | Waiyaki Way, Total Ngong Road |                        | by the company     | their trial |
+|           | Imara                | 400,000                 |                          |                         |                   |                               |                        |                    | stages. Sold |
+| ROAM      | Roam Air             |                           |                          |                         |                   |                               |                        | Battery owned      | Less than 20 |
+
+
 In comparison to the electric motorcycle report I drew the following:
 
 | Aspect               | Electric Motorcycle                              | Fuel Motorcycle                                 |
