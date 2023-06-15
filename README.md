@@ -116,6 +116,18 @@ Lower Operating Costs: Electric motorcycles typically have lower operating costs
   
 * Regenerative Braking: Many electric motorcycles utilize regenerative braking, which converts braking energy into electrical energy and recharges the battery, increasing overall efficiency.
 
+Disadvantages of Electric Motorcycles:
+
+* Limited Range: Electric motorcycles generally have a limited range compared to fuel motorcycles, requiring recharging or battery swapping after a certain distance. This can be a limitation for long rides or in areas with limited charging infrastructure.
+
+* Longer Recharge Time: Charging an electric motorcycle takes longer than refueling a fueled motorcycle. Even with fast charging options, it still requires more time compared to filling up a fuel tank.
+
+* Limited Charging Infrastructure: The availability of charging stations can be limited
+
+* Battery Lifespan and Degradation: The lifespan and performance of electric motorcycle batteries can be affected by factors such as temperature, usage patterns, and time. Over time, the battery capacity may degrade, requiring replacement or decreased range.
+
+* Limited Model Options: Electric motorcycles may have a more limited selection of models and styles compared to the wide range available for fuel motorcycles.
+
 ## Next Step
 * Research Competitors: Identify the key competitors in the electric motorbike and fuel bike markets. Look for both local and global manufacturers and suppliers. Consider factors such as market share, reputation, and customer base.
 
