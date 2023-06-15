@@ -101,23 +101,21 @@ From the electric motorcycle analysis, I drew the following about the models;
 
 In comparison to the electric motorcycle report I drew the following:
 
-| Aspect               | Electric Motorcycle                              | Fuel Motorcycle                                 |
-|----------------------|--------------------------------------------------|-------------------------------------------------|
-| Cost                 | AMPERSAND: 184,980 Ksh                           | Varies (130,000 - 160,000 Ksh)                  |
-| Battery              | AMPERSAND: 1 lithium battery (42 kg)              | Not applicable                                  |
-| Charge/Swap Stations | AMPERSAND: 9 swap stations, app-based charging    | Not applicable                                  |
-| Battery Ownership    | AMPERSAND: Bike and battery are property of the   | Bike owner's responsibility                     |
-| Maximum Speed        | AMPERSAND: Mode three - maximum speed             | Varies depending on the motorcycle model        |
-| Load Capacity        | AMPERSAND: Not specified                          | Varies depending on the motorcycle model        |
-| Charging/Range       | AMPERSAND: Battery swap, charge per percentage    | Fuel refill, varies depending on fuel tank      |
-|                      | used                                             | capacity                                        |
-| Financing Options    | AMPERSAND: Partnerships with loan financing       | Varies depending on the dealership and          |
-|                      | companies                                         | financial institutions                          |
-| Additional Features  | AMPERSAND: Radio system, USB charging port, free  | Varies depending on the motorcycle model        |
-|                      | chain brush                                      |                                                 |
-| Parking Options      | AMPERSAND: Not specified                          | Varies depending on the rider's preference and  |
-|                      |                                                  | location                                        |
-| Insurance            | AMPERSAND: Not specified                          | Varies depending on the rider's choice          |
+| Aspect              | Electric Motorcycle                                                                                                   | Fuel Motorcycle                                                    |
+|---------------------|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| Cost                | AMPERSAND: 184,980 Ksh<br>ARC RIDE: 180,000 Ksh<br>EWAKA: 215,000 - 400,000 Ksh<br>ROAM: Sold through financiers<br>ECOBODAA: 186,000 Ksh | Varies (130,000 - 160,000 Ksh)                                    |
+| Battery             | AMPERSAND: 1 lithium battery (42 kg)<br>ARC RIDE: Dual battery (20 kg)<br>EWAKA: Single charge (80 km)<br>ROAM: 2 batteries (50 km each)<br>ECOBODAA: 1 lithium battery (20 kg) | Not applicable                                                    |
+| Charge/Swap Stations | AMPERSAND: 9 swap stations, app-based charging system<br>ARC RIDE: 40 swap stations (projecting up to 100), app-based charging system<br>EWAKA: Home charging<br>ROAM: 3 swap stations, manual operation<br>ECOBODAA: 4 charging stations | Not applicable                                                    |
+| Battery Ownership   | AMPERSAND: Bike and battery are property of the company<br>ARC RIDE: Bike and battery are property of the company<br>EWAKA: Bike owner's responsibility<br>ROAM: Battery is property of the company<br>ECOBODAA: Battery is property of the company | Bike owner's responsibility                                        |
+| Maximum Speed       | AMPERSAND: Mode three - maximum speed<br>ARC RIDE: 70 km/h<br>EWAKA: 80 km/h<br>ROAM: 80 km/h<br>ECOBODAA: 120 km/h                     | Varies depending on the motorcycle model                           |
+| Load Capacity       | AMPERSAND: Not specified<br>ARC RIDE: 200 kg<br>EWAKA: Varies depending on the model<br>ROAM: Not specified<br>ECOBODAA: Not specified | Varies depending on the motorcycle model                           |
+| Charging/Range      | AMPERSAND: Battery swap, charge per percentage used<br>ARC RIDE: Battery swap, daily unlimited swap option<br>EWAKA: Home charging, up to 80 km range<br>ROAM: Battery swap, charge per percentage used<br>ECOBODAA: Battery swap, 80 km range | Fuel refill, varies depending on fuel tank capacity                |
+| Financing Options   | AMPERSAND: Partnerships with loan financing companies<br>ARC RIDE: Individual financing, business finance, business leasing<br>EWAKA: Not specified<br>ROAM: Sold through financiers<br>ECOBODAA: Partnerships with financial firms offering loans | Varies depending on the dealership and financial institutions   |
+| Additional Features | AMPERSAND: Radio system, USB charging port, free chain brush<br>ARC RIDE: Not specified<br>EWAKA: Not specified<br>ROAM: Not specified<br>ECOBODAA: USB charging port | Varies depending on the motorcycle model                           |
+| Parking Options     | AMPERSAND: Not specified<br>ARC RIDE: Not specified<br>EWAKA: Not specified<br>ROAM: Not specified<br>ECOBODAA: Not specified | Varies depending on the rider's preference and location            |
+| Insurance           | AMPERSAND: Not specified<br>ARC RIDE: Not specified<br>EWAKA: Not specified<br>ROAM: Not specified<br>ECOBODAA: Not specified | Varies depending on the rider's choice                             |
+
+                        
 
 Advantages of Electric Motorcycles:
 
