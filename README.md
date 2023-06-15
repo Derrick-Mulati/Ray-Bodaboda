@@ -83,6 +83,27 @@ Offering regular maintenance packages and promoting the importance of routine ma
 
 These recommendations are based on the provided data, and it is important to conduct further market research and analysis to tailor strategies and initiatives according to the specific needs and preferences of the target audience.
 
+In comparison to the electric motorcycle report I drew the following:
+
+| Aspect               | Electric Motorcycle                              | Fuel Motorcycle                                 |
+|----------------------|--------------------------------------------------|-------------------------------------------------|
+| Cost                 | AMPERSAND: 184,980 Ksh                           | Varies (130,000 - 160,000 Ksh)                  |
+| Battery              | AMPERSAND: 1 lithium battery (42 kg)              | Not applicable                                  |
+| Charge/Swap Stations | AMPERSAND: 9 swap stations, app-based charging    | Not applicable                                  |
+| Battery Ownership    | AMPERSAND: Bike and battery are property of the   | Bike owner's responsibility                     |
+| Maximum Speed        | AMPERSAND: Mode three - maximum speed             | Varies depending on the motorcycle model        |
+| Load Capacity        | AMPERSAND: Not specified                          | Varies depending on the motorcycle model        |
+| Charging/Range       | AMPERSAND: Battery swap, charge per percentage    | Fuel refill, varies depending on fuel tank      |
+|                      | used                                             | capacity                                        |
+| Financing Options    | AMPERSAND: Partnerships with loan financing       | Varies depending on the dealership and          |
+|                      | companies                                         | financial institutions                          |
+| Additional Features  | AMPERSAND: Radio system, USB charging port, free  | Varies depending on the motorcycle model        |
+|                      | chain brush                                      |                                                 |
+| Parking Options      | AMPERSAND: Not specified                          | Varies depending on the rider's preference and  |
+|                      |                                                  | location                                        |
+| Insurance            | AMPERSAND: Not specified                          | Varies depending on the rider's choice          |
+
+
 ## Next Step
 * Research Competitors: Identify the key competitors in the electric motorbike and fuel bike markets. Look for both local and global manufacturers and suppliers. Consider factors such as market share, reputation, and customer base.
 
