@@ -1,0 +1,27 @@
+Provided technical assistance to end-users on hardware and software-related issues.
+Installed and configured operating systems and software applications for users.
+Conducted routine maintenance on computers, printers, and other peripheral devices.
+Trained users on new software and hardware systems, resulting in improved productivity.
+
+Managed the organization's Bulk SMS portal, leading to a 50% increase in user engagement.
+Cleaned and maintained a list of over 800k customer contacts for bulk SMS communication, reducing undelivered messages by 75%.
+Supported agents at 27 Huduma (Service) Centers in Kenya, reducing backlog in raised tickets by 40%.
+Built a reporting template, speeding up the generation of performance reports by 70%.
+
+Designed, developed, debugged, and published client Android apps.
+Achieved a 100% client satisfaction rate and a 50% increase in repeat clients.
+Mapped out areas and users requiring user support, resulting in a 30% increase in user satisfaction.
+Developed a schedule to attend to user support requests, reducing user wait time by 50%.
+Installed business applications on user computers, improving overall productivity.
+Trained users on the usage of various business applications, reducing user errors.
+
+Developed and maintained the KSG Connect Mobile App, a robust and user-friendly Android application designed to enhance communication and collaboration within the organization.
+Ensured a smooth user experience by optimizing app performance, resolving bugs, and conducting thorough testing across various devices and OS versions.
+Utilized Agile methodologies to effectively plan and prioritize tasks, ensuring timely delivery of features and improvements.
+Actively contributed to the app's growth by analyzing user feedback and collaborating with the product team to identify and implement impactful enhancements.
+Built and maintained Strategy Planning and Performance Management department website.
+
+
+
+Data Science - Sleep Tracking
+Self Learning ChatBot
